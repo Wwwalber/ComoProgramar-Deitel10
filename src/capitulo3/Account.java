@@ -1,4 +1,4 @@
-package cap3;
+package capitulo3;
 
 public class Account {
     private String name; // variável de instância   

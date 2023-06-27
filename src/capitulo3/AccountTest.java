@@ -1,4 +1,4 @@
-package cap3;
+package capitulo3;
 public class AccountTest {
     public static void main(String[] args) {
         Account account1 = new Account("Jane Green");
