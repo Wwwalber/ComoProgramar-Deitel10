@@ -6,6 +6,7 @@ public class Account {
     public Account(String name){
         this.name = name;
     }
+    public Account(){}
 
     public String getName() {
         return name;
